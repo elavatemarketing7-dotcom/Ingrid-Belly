@@ -59,7 +59,7 @@ const ResultPage: React.FC<ResultPageProps> = ({ answers, onContinue }) => {
               className="w-full bg-emerald-600 hover:bg-emerald-500 text-white font-bold py-3.5 rounded-xl shadow-lg shadow-emerald-900/40 flex items-center justify-center gap-2 transition-all active:scale-95 text-sm animate-pulse"
             >
               <MessageCircle size={18} />
-              1- ENVIAR MINHA AVALIAÇÃO A DRA
+              1- ENVIAR MINHA AVALIAÇÃO
             </button>
             
             <button 
